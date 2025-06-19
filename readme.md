@@ -26,7 +26,7 @@ Kiểm thử tự động và thủ công trên phần mềm Postman.
 - **Kết Quả Thực Tế**: Đã gửi yêu cầu thành công
 - **Trạng Thái**: Thành công
 - **Kết Quả Sau Khi Kiểm Thử**:
-     ![Image](https://github.com/VanHieu-dev/Images/blob/main/assets/postman1.png)
+     ![Image](https://github.com/user-attachments/assets/d4cea423-c58f-41e7-8330-52feefad9262)
 **Kết quả kiểm thử chi tiết**:
 ```json
 [
