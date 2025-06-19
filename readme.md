@@ -75,7 +75,7 @@ Kiểm thử tự động và thủ công trên phần mềm Postman.
 
 #### Kịch Bản Kiểm Thử Lần 2
 
-- **Tên Kịch Bản**: Kiểm thử cơ bản của 1 URL với một tham số truyền vào
+- **Tên Kịch Bản**: Kiểm thử cơ bản của 1 URL
 - **Mục Đích**: Test khả năng hoạt động của URL và phần mềm Postman
 - **Phương Thức HTTP**: GET
 - **URL**: https://jsonplaceholder.typicode.com/posts/1
